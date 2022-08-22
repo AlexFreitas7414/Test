@@ -1,0 +1,548 @@
+{
+    "cnpj_raiz": "50567288",
+    "razao_social": "SOCIEDADE MICHELIN DE PARTICIPACOES INDUST E COMERCIO LTDA",
+    "capital_social": "3892888037.34",
+    "responsavel_federativo": "",
+    "atualizado_em": "2022-08-13T03:00:00.000Z",
+    "porte": {
+        "id": "05",
+        "descricao": "Demais"
+    },
+    "natureza_juridica": {
+        "id": "2062",
+        "descricao": "Sociedade Empresária Limitada"
+    },
+    "qualificacao_do_responsavel": {
+        "id": 5,
+        "descricao": "Administrador "
+    },
+    "socios": [
+        {
+            "cpf_cnpj_socio": "05618353000173",
+            "nome": "COMPAGNIE FINANCIERE MICHELIN",
+            "tipo": "Pessoa Jurídica",
+            "data_entrada": "1996-12-19",
+            "cpf_representante_legal": "***214587**",
+            "nome_representante": "NOUR EDDINE BOUHASSOUN",
+            "faixa_etaria": "Não se aplica",
+            "atualizado_em": "2022-08-13T03:00:00.000Z",
+            "pais_id": "7676",
+            "qualificacao_socio": {
+                "id": 37,
+                "descricao": "Sócio Pessoa Jurídica Domiciliado no Exterior "
+            },
+            "qualificacao_representante": {
+                "id": 17,
+                "descricao": "Procurador "
+            }
+        },
+        {
+            "cpf_cnpj_socio": "***474558**",
+            "nome": "MARCELO RAMIRES RIBEIRO",
+            "tipo": "Pessoa Física",
+            "data_entrada": "2019-11-12",
+            "cpf_representante_legal": "***000000**",
+            "nome_representante": null,
+            "faixa_etaria": "51 a 60 anos",
+            "atualizado_em": "2022-08-13T03:00:00.000Z",
+            "pais_id": "1058",
+            "qualificacao_socio": {
+                "id": 5,
+                "descricao": "Administrador "
+            },
+            "qualificacao_representante": null
+        },
+        {
+            "cpf_cnpj_socio": "45409734000167",
+            "nome": "SPIKA S A",
+            "tipo": "Pessoa Jurídica",
+            "data_entrada": "2022-07-20",
+            "cpf_representante_legal": "***144559**",
+            "nome_representante": "FELICIANO AUGUSTO ABRANTES DE ALMEIDA",
+            "faixa_etaria": "Não se aplica",
+            "atualizado_em": "2022-08-13T03:00:00.000Z",
+            "pais_id": "2755",
+            "qualificacao_socio": {
+                "id": 37,
+                "descricao": "Sócio Pessoa Jurídica Domiciliado no Exterior "
+            },
+            "qualificacao_representante": {
+                "id": 17,
+                "descricao": "Procurador "
+            }
+        },
+        {
+            "cpf_cnpj_socio": "***500107**",
+            "nome": "RAFAELA AFFONSO MAGALHAES SENISE",
+            "tipo": "Pessoa Física",
+            "data_entrada": "2022-03-03",
+            "cpf_representante_legal": "***000000**",
+            "nome_representante": null,
+            "faixa_etaria": "41 a 50 anos",
+            "atualizado_em": "2022-08-13T03:00:00.000Z",
+            "pais_id": "1058",
+            "qualificacao_socio": {
+                "id": 5,
+                "descricao": "Administrador "
+            },
+            "qualificacao_representante": null
+        },
+        {
+            "cpf_cnpj_socio": "09287181000153",
+            "nome": "MICHELIN FINANCE (LUXEMBOURG) S.AR.L",
+            "tipo": "Pessoa Jurídica",
+            "data_entrada": "2008-02-20",
+            "cpf_representante_legal": "***214587**",
+            "nome_representante": "NOUR EDDINE BOUHASSOUN",
+            "faixa_etaria": "Não se aplica",
+            "atualizado_em": "2022-07-09T03:00:00.000Z",
+            "pais_id": "4456",
+            "qualificacao_socio": {
+                "id": 37,
+                "descricao": "Sócio Pessoa Jurídica Domiciliado no Exterior "
+            },
+            "qualificacao_representante": {
+                "id": 17,
+                "descricao": "Procurador "
+            }
+        },
+        {
+            "cpf_cnpj_socio": "***674607**",
+            "nome": "ISABELLA FERRAZ FERREIRA",
+            "tipo": "Pessoa Física",
+            "data_entrada": "2021-01-29",
+            "cpf_representante_legal": "***000000**",
+            "nome_representante": null,
+            "faixa_etaria": "41 a 50 anos",
+            "atualizado_em": "2022-08-13T03:00:00.000Z",
+            "pais_id": "1058",
+            "qualificacao_socio": {
+                "id": 5,
+                "descricao": "Administrador "
+            },
+            "qualificacao_representante": null
+        },
+        {
+            "cpf_cnpj_socio": "***144559**",
+            "nome": "FELICIANO AUGUSTO ABRANTES DE ALMEIDA",
+            "tipo": "Pessoa Física",
+            "data_entrada": "2021-01-29",
+            "cpf_representante_legal": "***000000**",
+            "nome_representante": null,
+            "faixa_etaria": "61 a 70 anos",
+            "atualizado_em": "2022-08-13T03:00:00.000Z",
+            "pais_id": "1058",
+            "qualificacao_socio": {
+                "id": 5,
+                "descricao": "Administrador "
+            },
+            "qualificacao_representante": null
+        },
+        {
+            "cpf_cnpj_socio": "***540637**",
+            "nome": "RUY FERREIRA FRANCO JUNIOR",
+            "tipo": "Pessoa Física",
+            "data_entrada": "2019-11-12",
+            "cpf_representante_legal": "***000000**",
+            "nome_representante": null,
+            "faixa_etaria": "51 a 60 anos",
+            "atualizado_em": "2022-08-13T03:00:00.000Z",
+            "pais_id": "1058",
+            "qualificacao_socio": {
+                "id": 5,
+                "descricao": "Administrador "
+            },
+            "qualificacao_representante": null
+        }
+    ],
+    "simples": null,
+    "estabelecimento": {
+        "cnpj": "50567288000744",
+        "atividades_secundarias": [
+            {
+                "id": "2869100",
+                "secao": "C",
+                "divisao": "28",
+                "grupo": "28.6",
+                "classe": "28.69-1",
+                "subclasse": "2869-1/00",
+                "descricao": "Fabricação de máquinas e equipamentos para uso industrial específico não especificados anteriormente, peças e acessórios"
+            }
+        ],
+        "cnpj_raiz": "50567288",
+        "cnpj_ordem": "0007",
+        "cnpj_digito_verificador": "44",
+        "tipo": "Filial",
+        "nome_fantasia": null,
+        "situacao_cadastral": "Ativa",
+        "data_situacao_cadastral": "2005-11-03",
+        "data_inicio_atividade": "1997-07-17",
+        "nome_cidade_exterior": null,
+        "tipo_logradouro": "ESTRADA",
+        "logradouro": "DA CACHAMORRA",
+        "numero": "5000",
+        "complemento": null,
+        "bairro": "CAMPO GRANDE",
+        "cep": "23040150",
+        "ddd1": "21",
+        "telefone1": "36214711",
+        "ddd2": null,
+        "telefone2": null,
+        "ddd_fax": null,
+        "fax": null,
+        "email": "juridico@michelin.com",
+        "situacao_especial": null,
+        "data_situacao_especial": null,
+        "atualizado_em": "2022-08-13T03:00:00.000Z",
+        "atividade_principal": {
+            "id": "2211100",
+            "secao": "C",
+            "divisao": "22",
+            "grupo": "22.1",
+            "classe": "22.11-1",
+            "subclasse": "2211-1/00",
+            "descricao": "Fabricação de pneumáticos e de câmaras-de-ar"
+        },
+        "pais": {
+            "id": "1058",
+            "iso2": "BR",
+            "iso3": "BRA",
+            "nome": "Brasil",
+            "comex_id": "105"
+        },
+        "estado": {
+            "id": 19,
+            "nome": "Rio de Janeiro",
+            "sigla": "RJ",
+            "ibge_id": 33
+        },
+        "cidade": {
+            "id": 3243,
+            "nome": "Rio de Janeiro",
+            "ibge_id": 3304557,
+            "siafi_id": "6001"
+        },
+        "motivo_situacao_cadastral": null,
+        "inscricoes_estaduais": [
+            {
+                "inscricao_estadual": "0101125200115",
+                "ativo": true,
+                "atualizado_em": "2022-08-15T04:48:40.893Z",
+                "estado": {
+                    "id": 1,
+                    "nome": "Acre",
+                    "sigla": "AC",
+                    "ibge_id": 12
+                }
+            },
+            {
+                "inscricao_estadual": "245001280",
+                "ativo": true,
+                "atualizado_em": "2022-08-15T04:48:40.893Z",
+                "estado": {
+                    "id": 2,
+                    "nome": "Alagoas",
+                    "sigla": "AL",
+                    "ibge_id": 27
+                }
+            },
+            {
+                "inscricao_estadual": "049007475",
+                "ativo": true,
+                "atualizado_em": "2022-08-15T04:48:40.893Z",
+                "estado": {
+                    "id": 3,
+                    "nome": "Amazonas",
+                    "sigla": "AM",
+                    "ibge_id": 13
+                }
+            },
+            {
+                "inscricao_estadual": "030547415",
+                "ativo": true,
+                "atualizado_em": "2022-08-15T04:48:40.893Z",
+                "estado": {
+                    "id": 4,
+                    "nome": "Amapá",
+                    "sigla": "AP",
+                    "ibge_id": 16
+                }
+            },
+            {
+                "inscricao_estadual": "038035416",
+                "ativo": true,
+                "atualizado_em": "2022-08-15T04:48:40.893Z",
+                "estado": {
+                    "id": 5,
+                    "nome": "Bahia",
+                    "sigla": "BA",
+                    "ibge_id": 29
+                }
+            },
+            {
+                "inscricao_estadual": "38035416",
+                "ativo": false,
+                "atualizado_em": "2022-07-18T11:49:06.675Z",
+                "estado": {
+                    "id": 5,
+                    "nome": "Bahia",
+                    "sigla": "BA",
+                    "ibge_id": 29
+                }
+            },
+            {
+                "inscricao_estadual": "069996946",
+                "ativo": true,
+                "atualizado_em": "2022-08-15T04:48:40.893Z",
+                "estado": {
+                    "id": 6,
+                    "nome": "Ceará",
+                    "sigla": "CE",
+                    "ibge_id": 23
+                }
+            },
+            {
+                "inscricao_estadual": "0742690100108",
+                "ativo": true,
+                "atualizado_em": "2022-08-15T04:48:40.893Z",
+                "estado": {
+                    "id": 7,
+                    "nome": "Distrito Federal",
+                    "sigla": "DF",
+                    "ibge_id": 53
+                }
+            },
+            {
+                "inscricao_estadual": "000010715",
+                "ativo": true,
+                "atualizado_em": "2022-08-15T04:48:40.893Z",
+                "estado": {
+                    "id": 8,
+                    "nome": "Espírito Santo",
+                    "sigla": "ES",
+                    "ibge_id": 32
+                }
+            },
+            {
+                "inscricao_estadual": "102607346",
+                "ativo": true,
+                "atualizado_em": "2022-08-13T03:00:00.000Z",
+                "estado": {
+                    "id": 9,
+                    "nome": "Goiás",
+                    "sigla": "GO",
+                    "ibge_id": 52
+                }
+            },
+            {
+                "inscricao_estadual": "126001774",
+                "ativo": true,
+                "atualizado_em": "2022-08-16T03:00:00.000Z",
+                "estado": {
+                    "id": 10,
+                    "nome": "Maranhão",
+                    "sigla": "MA",
+                    "ibge_id": 21
+                }
+            },
+            {
+                "inscricao_estadual": "0487223000050",
+                "ativo": true,
+                "atualizado_em": "2022-08-15T04:48:40.893Z",
+                "estado": {
+                    "id": 11,
+                    "nome": "Minas Gerais",
+                    "sigla": "MG",
+                    "ibge_id": 31
+                }
+            },
+            {
+                "inscricao_estadual": "282366334",
+                "ativo": true,
+                "atualizado_em": "2022-08-15T04:48:40.893Z",
+                "estado": {
+                    "id": 12,
+                    "nome": "Mato Grosso do Sul",
+                    "sigla": "MS",
+                    "ibge_id": 50
+                }
+            },
+            {
+                "inscricao_estadual": "00131429744",
+                "ativo": true,
+                "atualizado_em": "2022-08-15T04:48:40.893Z",
+                "estado": {
+                    "id": 13,
+                    "nome": "Mato Grosso",
+                    "sigla": "MT",
+                    "ibge_id": 51
+                }
+            },
+            {
+                "inscricao_estadual": "151749949",
+                "ativo": true,
+                "atualizado_em": "2022-08-15T04:48:40.893Z",
+                "estado": {
+                    "id": 14,
+                    "nome": "Pará",
+                    "sigla": "PA",
+                    "ibge_id": 15
+                }
+            },
+            {
+                "inscricao_estadual": "169994201",
+                "ativo": true,
+                "atualizado_em": "2022-08-15T04:48:40.893Z",
+                "estado": {
+                    "id": 15,
+                    "nome": "Paraíba",
+                    "sigla": "PB",
+                    "ibge_id": 25
+                }
+            },
+            {
+                "inscricao_estadual": "019440103",
+                "ativo": true,
+                "atualizado_em": "2022-08-15T04:48:40.893Z",
+                "estado": {
+                    "id": 16,
+                    "nome": "Pernambuco",
+                    "sigla": "PE",
+                    "ibge_id": 26
+                }
+            },
+            {
+                "inscricao_estadual": "194272010",
+                "ativo": true,
+                "atualizado_em": "2022-08-15T04:48:40.893Z",
+                "estado": {
+                    "id": 17,
+                    "nome": "Piauí",
+                    "sigla": "PI",
+                    "ibge_id": 22
+                }
+            },
+            {
+                "inscricao_estadual": "0990182329",
+                "ativo": true,
+                "atualizado_em": "2022-08-15T04:48:40.893Z",
+                "estado": {
+                    "id": 18,
+                    "nome": "Paraná",
+                    "sigla": "PR",
+                    "ibge_id": 41
+                }
+            },
+            {
+                "inscricao_estadual": "82341064",
+                "ativo": true,
+                "atualizado_em": "2022-08-15T04:48:40.893Z",
+                "estado": {
+                    "id": 19,
+                    "nome": "Rio de Janeiro",
+                    "sigla": "RJ",
+                    "ibge_id": 33
+                }
+            },
+            {
+                "inscricao_estadual": "203001214",
+                "ativo": true,
+                "atualizado_em": "2022-08-15T04:48:40.893Z",
+                "estado": {
+                    "id": 20,
+                    "nome": "Rio Grande do Norte",
+                    "sigla": "RN",
+                    "ibge_id": 24
+                }
+            },
+            {
+                "inscricao_estadual": "00000000417866",
+                "ativo": true,
+                "atualizado_em": "2022-08-15T04:48:40.893Z",
+                "estado": {
+                    "id": 21,
+                    "nome": "Rondônia",
+                    "sigla": "RO",
+                    "ibge_id": 11
+                }
+            },
+            {
+                "inscricao_estadual": "240038064",
+                "ativo": true,
+                "atualizado_em": "2022-08-15T04:48:40.893Z",
+                "estado": {
+                    "id": 22,
+                    "nome": "Roraima",
+                    "sigla": "RR",
+                    "ibge_id": 14
+                }
+            },
+            {
+                "inscricao_estadual": "0962663980",
+                "ativo": false,
+                "atualizado_em": "2022-08-15T04:48:40.893Z",
+                "estado": {
+                    "id": 23,
+                    "nome": "Rio Grande do Sul",
+                    "sigla": "RS",
+                    "ibge_id": 43
+                }
+            },
+            {
+                "inscricao_estadual": "9000001221",
+                "ativo": true,
+                "atualizado_em": "2022-08-15T04:48:40.893Z",
+                "estado": {
+                    "id": 23,
+                    "nome": "Rio Grande do Sul",
+                    "sigla": "RS",
+                    "ibge_id": 43
+                }
+            },
+            {
+                "inscricao_estadual": "253591368",
+                "ativo": true,
+                "atualizado_em": "2022-08-16T03:00:00.000Z",
+                "estado": {
+                    "id": 24,
+                    "nome": "Santa Catarina",
+                    "sigla": "SC",
+                    "ibge_id": 42
+                }
+            },
+            {
+                "inscricao_estadual": "270855521",
+                "ativo": true,
+                "atualizado_em": "2022-08-15T04:48:40.893Z",
+                "estado": {
+                    "id": 25,
+                    "nome": "Sergipe",
+                    "sigla": "SE",
+                    "ibge_id": 28
+                }
+            },
+            {
+                "inscricao_estadual": "819000796111",
+                "ativo": true,
+                "atualizado_em": "2022-08-15T04:48:40.893Z",
+                "estado": {
+                    "id": 26,
+                    "nome": "São Paulo",
+                    "sigla": "SP",
+                    "ibge_id": 35
+                }
+            },
+            {
+                "inscricao_estadual": "299992551",
+                "ativo": true,
+                "atualizado_em": "2022-08-15T04:48:40.893Z",
+                "estado": {
+                    "id": 27,
+                    "nome": "Tocantins",
+                    "sigla": "TO",
+                    "ibge_id": 17
+                }
+            }
+        ]
+    }
+}
